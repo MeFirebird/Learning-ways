@@ -1,5 +1,7 @@
 # Resources
 Collection of learning resources  for reference <br>
+学习提升：　参照教程 　资料  　社区
+
 
 ## 问答社区   http://www.techug.com/
 1. Stack Overflow : subscribe to their weekly newsletter and any other topic which you find interesting(常用)
