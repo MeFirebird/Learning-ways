@@ -14,6 +14,9 @@ Collection of learning resources  for reference <br>
 
 5. Codementor : A mentorship community to learn from fellow developers via live 1:1 help and more.
 
+6. medium英文社区哦
+
+
 ## 前端学习渠道
 1. runoob  w3c
 2. MDN
