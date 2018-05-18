@@ -1,0 +1,35 @@
+
+一：开发
+
+1.集成vuepress -----》发布
+
+2.life的这个参照learn的来呗
+
+3.去cdn广告：
+  a：不用cdn
+  b：搞个div覆盖掉
+
+4.
+
+
+
+
+
+第二优先级：
+1.做思维导图  然后在markdown中引入啊
+
+
+
+
+
+
+
+
+
+二：报错list
+
+1.Extracting site metadata...Error: [vuepress] Failed to load custom theme "vue". File vuepress-theme-vue/Layout.vue does not exist.
+  debug: yarn add vuepress-theme-vue   ---> yarn docs:dev
+
+2.vue.runtime.esm.js?2b0e:587 [Vue warn]: Invalid component name: "life.vue".
+  Component names can only contain alphanumeric characters and the hyphen, and must start with a letter.
