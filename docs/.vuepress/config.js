@@ -1,5 +1,5 @@
 module.exports = {
-    dest: 'vuepress',
+    dest: 'vuepress',  // 生成的文件位置
     locales: {
         '/': {
             lang: 'zh-CN',
@@ -117,9 +117,11 @@ module.exports = {
             ]
         }
     },
-    configureWebpack: {
+    configureWebpack: {    // Webpack 的别名
         resolve: {
-            alias: {}
+            alias: {
+
+            }
         }
     },
     markdown: {
